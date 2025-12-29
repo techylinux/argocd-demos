@@ -1,4 +1,4 @@
 kustomize:
   images:
   - trainwithshubham/chai-devops:v1.0.3
-  - sumit010607/newhub:v2.0.0
+  - sumit010607/newhub:v3.0.0
