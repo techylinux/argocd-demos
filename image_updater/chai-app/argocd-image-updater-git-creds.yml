@@ -5,4 +5,4 @@ metadata:
   namespace: argocd # Namespace where the Secret will be created
 stringData:
   username: "techylinux" # Your GitHub username for authentication
-  password: "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" # Your GitHub personal access token for authentication
+  password: "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" # Your GitHub personal access token for authentication
